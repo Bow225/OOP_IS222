@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27ff97c-3cd9-4a27-bd58-9e098065575a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_IS222/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_IS222/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_IS222/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_IS222/src/ooptest/HelloWorld.java" afterPath="$PROJECT_DIR$/../OOP_IS222/src/ooptest/HelloWorld.java" />
     </list>
@@ -19,8 +18,8 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_IS222/src/ooptest/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -234,6 +233,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511249769504</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testing Add Data">
+      <created>1511252393900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511252393900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -249,7 +256,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -271,6 +278,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing Add Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing Add Data" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -278,8 +289,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../OOP_IS222/src/ooptest/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
           <folding />
         </state>
       </provider>

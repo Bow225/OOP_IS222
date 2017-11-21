@@ -8,8 +8,8 @@ public class HelloWorld {
 //        Add Data
         System.out.println("Puriwat Lertkrai");
         System.out.println("Information System");
-        System.out.println("Faculty of Management Technology");
-        System.out.println("RMUTSV");
+        System.out.println("Faculty of Management Technology,RMUTSV");
+
     }//main
 
 }// class
