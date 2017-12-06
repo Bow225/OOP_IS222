@@ -6,6 +6,7 @@ public class TestMethods {
     public static void A(){
         System.out.println("Hello A");
     }//A
+
     //type 2
     public static void B(int x, int y){
         System.out.println(x+" "+y);
