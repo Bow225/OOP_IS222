@@ -16,7 +16,7 @@ public class OverLoadMethod {
     }
 
     public static void Summation(int x, int y, int z) {
-        System.out.println(x + y + z + number);
+        System.out.println(x + y + z + number+100);
     }
 
     public static void main(String[] args) {
