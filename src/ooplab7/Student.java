@@ -7,6 +7,7 @@ package ooplab7;
 
 public class Student {
     //properties of Student
+    static String group = "IS222";
     private String id;
     private String name;
     private String address;
