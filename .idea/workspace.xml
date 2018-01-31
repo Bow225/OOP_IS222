@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27ff97c-3cd9-4a27-bd58-9e098065575a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,67 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab7/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab7/StudentApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab7/SuperCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#835#836#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#989#990#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab7/mySuperCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#197#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="66">
+              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#771#772#0" expanded="true" />
@@ -97,6 +41,25 @@
                 <element signature="e#1233#1234#0" expanded="true" />
                 <element signature="e#1268#1269#0" expanded="true" />
                 <element signature="e#1298#1299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab8/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/ooplab7/SuperCar.java" />
         <option value="$PROJECT_DIR$/src/ooplab7/mySuperCar.java" />
         <option value="$PROJECT_DIR$/src/ooplab8/Person.java" />
+        <option value="$PROJECT_DIR$/src/ooplab8/Student.java" />
       </list>
     </option>
   </component>
@@ -190,6 +154,12 @@
               <item name="OOP_IS222" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_IS222" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP_IS222" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_IS222" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -589,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517363299942</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Inheritance: Person">
+      <created>1517364778952</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1517364778952</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -661,7 +638,8 @@
     <MESSAGE value="Class and Object: StudentApp" />
     <MESSAGE value="Class and Object: Instant variable" />
     <MESSAGE value="Super Car info example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Super Car info example" />
+    <MESSAGE value="Inheritance: Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: Person" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1028,8 +1006,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="66">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#771#772#0" expanded="true" />
@@ -1048,6 +1026,23 @@
             <element signature="e#1233#1234#0" expanded="true" />
             <element signature="e#1268#1269#0" expanded="true" />
             <element signature="e#1298#1299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
           </folding>
         </state>
       </provider>
